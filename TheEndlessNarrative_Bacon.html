@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bacon - Character Description</title>
+    <style>
+        /* (PASTE THE EXACT SAME CSS FROM INDEX.HTML HERE) */
+    </style>
+</head>
+<body>
+
+    <!-- Sidebar (Same as index) -->
+    <div class="sidebar" id="sidebar">
+        <h2>Menu</h2>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search characters, stories...">
+            <div class="search-results" id="searchResults"></div>
+        </div>
+        <ul class="menu-list">
+            <li onclick="window.location.href='index.html'">Home</li>
+            <li>Character Descriptions</li>
+            <li>Narrative/Stories</li>
+            <li>Other Descriptions</li>
+        </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <button class="mobile-toggle" onclick="toggleMenu()">☰ Menu / Search</button>
+        
+        <!-- AdSense 1 -->
+        <div class="ad-container">AdSense Placeholder 1 (728x90)</div>
+
+        <h1>Bacon</h1>
+        <p><em>“He is usually found in The Endless Narrative.”</em></p>
+        
+        <ul>
+            <li><strong>Age:</strong> 17 (Or probably unknown)</li>
+            <li><strong>Personality:</strong> Humorous and acts stupid</li>
+            <li><strong>Physique:</strong> Unbound (His body doesn't follow anatomy; he can stretch, squash, explode, and reform instantly because his physical form is just a suggestion).</li>
+            <li><strong>Ability:</strong> True Narrative Transcendence</li>
+        </ul>
+
+        <h3>Types of Awareness</h3>
+        <ul>
+            <li><strong>4th Wall Awareness (Basic Meta-Perception):</strong> He knows he is a fictional character. He can see speech bubbles, text boxes, and panel borders. He perceives the people reading or watching him.</li>
+            <li><strong>Digital Awareness:</strong> Bacon views most reality as a computer operating system. He can delete any character by dragging them to the desktop trash bin.</li>
+            <li><strong>Internet Awareness:</strong> Mid-fight, he can pull out a smartphone, Google his opponent's name, pull up their Wiki page, and read their entire backstory and weaknesses aloud to embarrass them.</li>
+            <li><strong>Authorial / Source Code Awareness:</strong> He can see the literal code or text generating the world. He can hit "Backspace" on a villain's monologue or "Inspect Element" to change their attack stat to 0.</li>
+        </ul>
+
+        <h3>Scaling & Logic</h3>
+        <ul>
+            <li><strong>Ignorance of Scale:</strong> It does not matter if an entity is 3-dimensional or 100-dimensionally infinite. He can reduce the enemy's entire complex existence into a flat description on a .txt file.</li>
+            <li><strong>Fictionally Unbound:</strong> His power explicitly includes the ability to ignore the "logic" of what is fiction and what is reality. Because he has already proven he can cross that impossible boundary, you cannot use a boundary to stop him.</li>
+        </ul>
+
+        <!-- AdSense 2 -->
+        <div class="ad-container">AdSense Placeholder 2 (728x90)</div>
+    </div>
+
+    <script src="searchData.js"></script>
+    <script>
+        function toggleMenu() { document.getElementById('sidebar').classList.toggle('active'); }
+        setupSearch();
+    </script>
+</body>
+</html>
