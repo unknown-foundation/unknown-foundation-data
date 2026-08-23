@@ -23,10 +23,59 @@
     },
     {
       "tag": "Character",
+      "typo": "ALVIN",
+      "title": "Alvin",
+      "desc": "A highly paid Bounty Hunter who commands the reality-bending Red Void.",
+      "link": "https://unknownfoundation.blogspot.com/p/alvin-endless-narrative.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "HERALD",
+      "title": "Herald",
+      "desc": "Wears sunglasses despite the dim light. Doesn't explain how he survives.",
+      "link": "https://unknownfoundation.blogspot.com/p/herald-endless-narrative.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "SHASHA",
+      "title": "Shasha",
+      "desc": "An overly affectionate bounty hunter who traps victims in her dark pocket dimension.",
+      "link": "https://unknownfoundation.blogspot.com/p/shasha-endless-narrative.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "BOB",
+      "title": "Bob",
+      "desc": "A self-important cosmic bounty hunter with time-stopping abilities.",
+      "link": "https://unknownfoundation.blogspot.com/p/bob-endless-narrative.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "BACON",
+      "title": "Bacon (Fallen Kingdom)",
+      "desc": "The highly destructive, deadpan protector of the crown who uses developer commands and tactical nukes.",
+      "link": "https://unknownfoundation.blogspot.com/p/bacon-fallen-kingdom-of-laymon.html"
+    },
+    {
+      "tag": "Character",
       "typo": "KING LAYMON",
       "title": "King Laymon (Fallen Kingdom)",
       "desc": "The traumatized, deposed monarch who is dragged across dimensions by his lunatic knight.",
       "link": "https://unknownfoundation.blogspot.com/p/king-laymon-fallen-kingdom-of-laymon.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "SHADOW",
+      "title": "Shadow (Fallen Kingdom)",
+      "desc": "The dark architect of Laymon's ruin who shatters reality and commands the void.",
+      "link": "https://unknownfoundation.blogspot.com/p/shadow-fallen-kingdom-of-laymon.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "EXPERIMENTS",
+      "title": "The Experiments (Fallen Kingdom)",
+      "desc": "Three incredibly powerful mutant bosses who never get to finish their dramatic monologues.",
+      "link": "https://unknownfoundation.blogspot.com/p/the-experiments-fallen-kingdom-of-laymon.html"
     }
   ],
   "stories": [
@@ -34,23 +83,29 @@
       "tag": "Series",
       "typo": "ENDLESS",
       "title": "The Endless Narrative",
-      "desc": "Follow Bacon as he explodes houses, joins the Bounty Hunters Association, gets a $10M bounty, and deletes cosmic entities.",
+      "desc": "Follow Bacon as he explodes houses, joins the Bounty Hunters Association, gets a $10M bounty, and deletes cosmic entities across a chaotic universe.",
       "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-1.html",
       "chapters": [
         { "title": "Ch. 1.1: Home to Wildest Combat", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-1.html" },
         { "title": "Ch. 1.2: Bounty Hunters Association", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-12.html" },
-        { "title": "Ch. 2.1: Shadow & Pizza Hut", "link": "https://unknownfoundation.blogspot.com/p/the-endless-chapter-2.html" }
+        { "title": "Ch. 2.1: Shadow & Pizza Hut", "link": "https://unknownfoundation.blogspot.com/p/the-endless-chapter-2.html" },
+        { "title": "Ch. 2.2: Red Void Consequences", "link": "https://unknownfoundation.blogspot.com/p/the-endless-chapter-22.html" },
+        { "title": "Ch. 3.1: Hostile Town & Therapy", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-3.html" },
+        { "title": "Ch. 3.2: $10M Bounty & Sun", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-32.html" },
+        { "title": "Ch. 3.3: Cosmic Gauntlet", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-33.html" }
       ]
     },
     {
       "tag": "Series",
       "typo": "FALLEN",
       "title": "Fallen Kingdom of Laymon",
-      "desc": "Bacon and King Laymon awaken in the ruins to face Shadow's Dark Realm and mutant experiments.",
+      "desc": "Bacon and King Laymon awaken in the ruins, declaring war on trees, fighting mutant experiments, and dodging nuclear explosions.",
       "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-1.html",
       "chapters": [
-        { "title": "Ch. 1.1: Awakening", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-1.html" },
-        { "title": "Ch. 1.2: Shadow's Realm", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-12.html" }
+        { "title": "Ch. 1.1: Awakening & Nukes", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-1.html" },
+        { "title": "Ch. 1.2: Shadow's Realm", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-12.html" },
+        { "title": "Ch. 1.3: Neon Lab & Mountain Drop", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-13.html" },
+        { "title": "Ch. 1.4: Divine Realm & Dev Commands", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-14.html" }
       ]
     }
   ]
