@@ -1,0 +1,57 @@
+{
+  "characters": [
+    {
+      "tag": "Character",
+      "typo": "BACON",
+      "title": "Bacon (The Endless Narrative)",
+      "desc": "A 17-year-old entity with True Narrative Transcendence and Authorial Awareness.",
+      "link": "https://unknownfoundation.blogspot.com/p/bacon-endless-narrative.html"
+    },
+    {
+      "tag": "Entity",
+      "typo": "ANTI-NARRATIVE",
+      "title": "Anti-Narrative",
+      "desc": "The physical manifestation of author's block. It consumes narratives.",
+      "link": "https://unknownfoundation.blogspot.com/p/anti-narrative-endless-narrative.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "SHADOW",
+      "title": "Shadow (The Endless Narrative)",
+      "desc": "A dark, abstract VIP of the Bounty Hunters Association who drinks the light around him.",
+      "link": "https://unknownfoundation.blogspot.com/p/shadow-endless-narrative.html"
+    },
+    {
+      "tag": "Character",
+      "typo": "KING LAYMON",
+      "title": "King Laymon (Fallen Kingdom)",
+      "desc": "The traumatized, deposed monarch who is dragged across dimensions by his lunatic knight.",
+      "link": "https://unknownfoundation.blogspot.com/p/king-laymon-fallen-kingdom-of-laymon.html"
+    }
+  ],
+  "stories": [
+    {
+      "tag": "Series",
+      "typo": "ENDLESS",
+      "title": "The Endless Narrative",
+      "desc": "Follow Bacon as he explodes houses, joins the Bounty Hunters Association, gets a $10M bounty, and deletes cosmic entities.",
+      "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-1.html",
+      "chapters": [
+        { "title": "Ch. 1.1: Home to Wildest Combat", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-1.html" },
+        { "title": "Ch. 1.2: Bounty Hunters Association", "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-12.html" },
+        { "title": "Ch. 2.1: Shadow & Pizza Hut", "link": "https://unknownfoundation.blogspot.com/p/the-endless-chapter-2.html" }
+      ]
+    },
+    {
+      "tag": "Series",
+      "typo": "FALLEN",
+      "title": "Fallen Kingdom of Laymon",
+      "desc": "Bacon and King Laymon awaken in the ruins to face Shadow's Dark Realm and mutant experiments.",
+      "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-1.html",
+      "chapters": [
+        { "title": "Ch. 1.1: Awakening", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-1.html" },
+        { "title": "Ch. 1.2: Shadow's Realm", "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-12.html" }
+      ]
+    }
+  ]
+}
