@@ -5,77 +5,88 @@
       "typo": "BACON",
       "title": "Bacon (The Endless Narrative)",
       "desc": "A 17-year-old entity with True Narrative Transcendence and Authorial Awareness.",
-      "link": "https://unknownfoundation.blogspot.com/p/bacon-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/bacon-endless-narrative.html",
+      "genre": "Action, Comedy, Sci-Fi, Adventure"
     },
     {
       "tag": "Entity",
       "typo": "ANTI-NARRATIVE",
       "title": "Anti-Narrative (The Endless Narrative)",
       "desc": "The physical manifestation of author's block. It consumes narratives.",
-      "link": "https://unknownfoundation.blogspot.com/p/anti-narrative-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/anti-narrative-endless-narrative.html",
+      "genre": "Action, Mystery, Sci-Fi"
     },
     {
       "tag": "Character",
       "typo": "SHADOW",
       "title": "Shadow (The Endless Narrative)",
       "desc": "A dark, abstract VIP of the Bounty Hunters Association who drinks the light around him.",
-      "link": "https://unknownfoundation.blogspot.com/p/shadow-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/shadow-endless-narrative.html",
+      "genre": "Action, Sci-Fi, Mystery"
     },
     {
       "tag": "Character",
       "typo": "ALVIN",
       "title": "Alvin (The Endless Narrative)",
       "desc": "A highly paid Bounty Hunter who commands the reality-bending Red Void.",
-      "link": "https://unknownfoundation.blogspot.com/p/alvin-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/alvin-endless-narrative.html",
+      "genre": "Action, Sci-Fi, Adventure"
     },
     {
       "tag": "Character",
       "typo": "HERALD",
       "title": "Herald (The Endless Narrative)",
       "desc": "Wears sunglasses despite the dim light. Doesn't explain how he survives.",
-      "link": "https://unknownfoundation.blogspot.com/p/herald-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/herald-endless-narrative.html",
+      "genre": "Comedy, Mystery"
     },
     {
       "tag": "Character",
       "typo": "SHASHA",
       "title": "Shasha (The Endless Narrative)",
       "desc": "An overly affectionate bounty hunter who traps victims in her dark pocket dimension.",
-      "link": "https://unknownfoundation.blogspot.com/p/shasha-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/shasha-endless-narrative.html",
+      "genre": "Action, Horror, Mystery"
     },
     {
       "tag": "Character",
       "typo": "BOB",
       "title": "Bob (The Endless Narrative)",
       "desc": "A self-important cosmic bounty hunter with time-stopping abilities.",
-      "link": "https://unknownfoundation.blogspot.com/p/bob-endless-narrative.html"
+      "link": "https://unknownfoundation.blogspot.com/p/bob-endless-narrative.html",
+      "genre": "Action, Comedy, Sci-Fi"
     },
     {
       "tag": "Character",
       "typo": "BACON",
       "title": "Bacon (Fallen Kingdom of Laymon)",
       "desc": "The highly destructive, deadpan protector of the crown who uses developer commands and tactical nukes.",
-      "link": "https://unknownfoundation.blogspot.com/p/bacon-fallen-kingdom-of-laymon.html"
+      "link": "https://unknownfoundation.blogspot.com/p/bacon-fallen-kingdom-of-laymon.html",
+      "genre": "Action, Comedy, Fantasy"
     },
     {
       "tag": "Character",
       "typo": "KING LAYMON",
       "title": "King Laymon (Fallen Kingdom of Laymon)",
       "desc": "The traumatized, deposed monarch who is dragged across dimensions by his lunatic knight.",
-      "link": "https://unknownfoundation.blogspot.com/p/king-laymon-fallen-kingdom-of-laymon.html"
+      "link": "https://unknownfoundation.blogspot.com/p/king-laymon-fallen-kingdom-of-laymon.html",
+      "genre": "Comedy, Fantasy, Adventure"
     },
     {
       "tag": "Character",
       "typo": "SHADOW",
       "title": "Shadow (Fallen Kingdom of Laymon)",
       "desc": "The dark architect of Laymon's ruin who shatters reality and commands the void.",
-      "link": "https://unknownfoundation.blogspot.com/p/shadow-fallen-kingdom-of-laymon.html"
+      "link": "https://unknownfoundation.blogspot.com/p/shadow-fallen-kingdom-of-laymon.html",
+      "genre": "Action, Fantasy, Mystery"
     },
     {
       "tag": "Character",
       "typo": "THE EXPERIMENTS",
       "title": "The Experiments (Fallen Kingdom of Laymon)",
       "desc": "The three incredibly powerful mutant bosses who never get to finish their dramatic monologues.",
-      "link": "https://unknownfoundation.blogspot.com/p/the-experiments-fallen-kingdom-of-laymon.html"
+      "link": "https://unknownfoundation.blogspot.com/p/the-experiments-fallen-kingdom-of-laymon.html",
+      "genre": "Action, Comedy, Fantasy"
     }
   ],
   "stories": [
@@ -85,6 +96,7 @@
       "title": "The Endless Narrative",
       "desc": "Follow Bacon as he explodes houses, joins the Bounty Hunters Association, gets a $10M bounty, and deletes cosmic entities across a chaotic universe.",
       "link": "https://unknownfoundation.blogspot.com/p/the-endless-narrative-chapter-1.html",
+      "genre": "Action, Comedy, Sci-Fi, Adventure",
       "date_published": "August 29, 2026",
       "recent_revision": "none",
       "authors": "TheDudeIsDudeBro",
@@ -107,6 +119,7 @@
       "title": "Fallen Kingdom of Laymon",
       "desc": "Bacon and King Laymon awaken in the ruins, declaring war on trees, fighting mutant experiments, and dodging nuclear explosions.",
       "link": "https://unknownfoundation.blogspot.com/p/fallen-kingdom-of-laymon-chapter-1.html",
+      "genre": "Action, Comedy, Fantasy, Adventure",
       "date_published": "August 29, 2026",
       "recent_revision": "none",
       "authors": "TheDudeIsDudeBro",
@@ -125,6 +138,7 @@
       "title": "One Cave",
       "desc": "After being banished by a superstitious tribe of cavemen, a modern traveler must use his wits to rescue them from a monstrous dire boar and earn their respect.",
       "link": "https://unknownfoundation.blogspot.com/p/one-cave.html",
+      "genre": "Action, Adventure, Drama",
       "date_published": "August 29, 2026",
       "recent_revision": "none",
       "authors": "TheDudeIsDudeBro",
