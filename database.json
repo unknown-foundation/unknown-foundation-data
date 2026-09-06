@@ -1,4 +1,14 @@
 {
+  "other_descriptions": [
+    {
+      "tag": "Other Description",
+      "typo": "Bounty Hunters Association",
+      "title": "Bounty Hunters Association (The Endless Narrative)",
+      "desc": "A chaotic, dimension-spanning guild where reality-bending mercenaries receive missions, collect bounties, and constantly destroy the lobby.",
+      "link": "https://unknownfoundation.blogspot.com/p/bounty-hunters-association.html",
+      "genre": "Action, Comedy, Sci-Fi"
+    }
+  ],
   "characters": [
     {
       "tag": "Character",
