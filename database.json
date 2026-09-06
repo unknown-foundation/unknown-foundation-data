@@ -136,9 +136,14 @@
       "tag": "Interactive Fiction",
       "typo": "REGISTRAR (BOUNTY HUNTER ASSOCIATION)",
       "title": "Bounty Hunter Association's Registrar",
-      "desc": "A text-based adventure where you play as the Association's newest front-desk Registrar, greeting whatever chaos walks through the door \u2014 starting with Bacon himself.",
+      "desc": "A text-based adventure where you play as the Association's newest front-desk Registrar, greeting whatever chaos walks through the door, starting with Bacon himself.",
       "link": "https://unknownfoundation.blogspot.com/p/bounty-hunter-associations-registrar.html",
-      "genre": "Action, Comedy, Sci-Fi, Adventure"
+      "genre": "Action, Comedy, Sci-Fi, Adventure",
+      "date_published": "August 29, 2026",
+      "recent_revision": "none",
+      "authors": "TheDudeIsDudeBro",
+      "contributors": "none",
+      "author_note": "Welcome to Bounty Hunter Association's Registrar!\nServe well and try not to fail. BoB is watching.\n\n:)\n\n<a href=\"https://discord.gg/CyCZyufwCp\" style=\"color:#0047AB; font-weight:bold;\"><u>Join Discord Server</u></a>"
     }
   ],
   "stories": [
